@@ -352,19 +352,19 @@ header #menu {
 }
 
 .footer {
-    background: #000;
-    color: #8a8a8a;
+    background: coral;
+    color: black;
     font-size: 14px;
     padding: 60px 0 20px;
 }
 
 .footer p {
-    color: #8a8a8a;
+    color: black;
 }
 
 .footer h3 {
-    color: #fff;
-    margin-bottom: 20px;
+    color: black;
+    margin-bottom: 10px;
 }
 
 .footer-col-1,
@@ -384,11 +384,6 @@ header #menu {
     text-align: center;
 }
 
-.footer-col-2 img {
-    width: 180px;
-    margin-bottom: 20px;
-}
-
 .footer-col-3,
 .footer-col-4 {
     flex-basis: 12%;
@@ -397,14 +392,6 @@ header #menu {
 
 ul {
     list-style-type: none;
-}
-
-.app-logo {
-    margin-top: 20px;
-}
-
-.app-logo img {
-    width: 140px;
 }
 
 .footer hr {
@@ -524,14 +511,6 @@ ul {
 
     ul {
         list-style-type: none;
-    }
-
-    .app-logo {
-        margin-top: 20px;
-    }
-
-    .app-logo img {
-        width: 140px;
     }
 
     .footer hr {
